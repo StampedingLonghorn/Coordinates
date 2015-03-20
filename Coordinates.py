@@ -19,6 +19,7 @@ print("")
 # Coordinate input and variables
 latA = float(input("What is the latitude of Point A? "))
 lonA = float(input("What is the longitude of Point A? "))
+print("")
 latB = float(input("What is the latitude of Point B? "))
 lonB = float(input("What is the longitude of Point B? "))
 print("")
